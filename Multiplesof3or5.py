@@ -1,6 +1,7 @@
-## If we list all the natural numbers below 10 that are multiples of 3 or 5,
-## we get 3, 5, 6 and 9. The sum of these multiples is 23.
-## Find the sum of all the multiples of 3 or 5 below 1000.
+# Если мы выпишем все натуральные числа до 10, которые делятся на 3 или на 5,
+# мы получим 3, 5, 6, 9. Сумма этих чисел равна 23.
+# Найти сумму всех натуральных чисел до 1000, которые делятся на 3 или 5.
+
 summ = 0
 a = 1
 while a < 1000:
